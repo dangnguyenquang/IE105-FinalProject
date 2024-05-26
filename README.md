@@ -4,7 +4,7 @@
 This project, a course project at the University of Information Technology - VNUHCM, aims to develop a deep learning-based system to detect Distributed Denial of Service (DDoS) attacks using the CICDDOS-2019 dataset. The project involves training an Artificial Neural Network (ANN) model and deploying it for real-time DDoS detection using CICFlowMeter-V3.
 
 ## Dataset
-The CICDDOS-2019 dataset, created by the Canadian Institute for Cybersecurity, contains comprehensive records of network traffic, including both benign and DDoS attack traffic. It features a variety of attack types, such as UDP Flood, TCP SYN Flood, and ICMP Flood, providing a rich set of data for training and evaluation.
+The [CICDDOS-2019 dataset](https://www.unb.ca/cic/datasets/ddos-2019.html), created by the Canadian Institute for Cybersecurity, contains comprehensive records of network traffic, including both benign and DDoS attack traffic. It features a variety of attack types, such as UDP Flood, TCP SYN Flood, and ICMP Flood, providing a rich set of data for training and evaluation.
 
 ## Tools and Technologies
 - **Deep Learning Framework:** TensorFlow/Keras
