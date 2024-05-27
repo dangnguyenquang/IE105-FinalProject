@@ -1,0 +1,904 @@
+2024-05-22 00:35:24 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-05-22 00:35:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2024-05-22 00:35:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2024-05-22 00:36:23 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2024-05-22 00:36:26 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 36 flow
+2024-05-22 00:36:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2024-05-22 00:36:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2024-05-22 00:36:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2024-05-22 00:37:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 40 flow
+2024-05-22 00:37:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 56 flow
+2024-05-22 00:37:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 56 flow
+2024-05-22 00:37:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 60 flow
+2024-05-22 00:37:39 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 69 flow
+2024-05-22 00:37:39 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 69 flow
+2024-05-22 00:38:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 76 flow
+2024-05-22 00:38:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 75 flow
+2024-05-22 00:38:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 75 flow
+2024-05-22 00:38:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 82 flow
+2024-05-22 00:38:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 84 flow
+2024-05-22 00:38:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 84 flow
+2024-05-22 00:38:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 93 flow
+2024-05-22 00:39:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 108 flow
+2024-05-22 00:39:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 108 flow
+2024-05-22 00:39:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 110 flow
+2024-05-22 00:39:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 110 flow
+2024-05-22 00:39:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 122 flow
+2024-05-22 00:39:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 122 flow
+2024-05-22 00:39:24 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 140 flow
+2024-05-22 00:39:24 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 140 flow
+2024-05-22 00:39:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 151 flow
+2024-05-22 00:39:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 158 flow
+2024-05-22 00:39:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 158 flow
+2024-05-22 00:39:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 162 flow
+2024-05-22 00:39:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 162 flow
+2024-05-22 00:40:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 172 flow
+2024-05-22 00:40:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 172 flow
+2024-05-22 00:40:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 172 flow
+2024-05-22 00:41:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
+2024-05-22 00:41:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
+2024-05-22 00:41:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 178 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 176 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 176 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 176 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 176 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 177 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 176 flow
+2024-05-22 00:41:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 176 flow
+2024-05-22 00:41:26 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 189 flow
+2024-05-22 00:41:26 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 190 flow
+2024-05-22 00:41:30 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2024-05-22 00:41:30 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\ANN project\cicflow4.0\CICFlowmeter\bin\data\daily\2024-05-22_Flow.csv
+2024-05-22 00:49:50 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\DELL\Desktop\Last Hope\trafficN.pcap
+2024-05-22 00:49:57 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\DELL\Desktop\Last Hope\trafficN.pcap
+2024-05-22 00:50:05 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\DELL\Desktop\Last Hope
+2024-05-22 00:51:12 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output D:\ANN project\cicflow4.0\CICFlowmeter\bin\data\daily
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\DELL\Desktop\Last Hope\trafficN.pcap
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e74afeclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=30)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f cb                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e74afeclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=30)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f cc                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e74afeclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=30)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f cd                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e74afeclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=30)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f ce                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e74afeclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=30)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f cf                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e74afeclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=30)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f d0                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e74afeclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=30)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f d1                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e74afeclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=30)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f d2                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e74afeclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=30)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f d3                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f d4                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f d5                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f d6                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f d7                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f d8                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f d9                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f da                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f db                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f dc                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f dd                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e75eacclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5068)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f de                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e761aaclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5834)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f df                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e761aaclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5834)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f e0                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e761aaclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5834)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f e1                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e761aaclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5834)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f e2                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e761aaclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5834)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f e3                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e761aaclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5834)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f e4                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e761aaclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5834)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f e5                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e761aaclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5834)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f e6                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e761aaclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5834)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f e7                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e761aaclass org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=5834)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f e8                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f e9                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f ea                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f eb                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f ec                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f ed                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f ee                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f ef                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f f0                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f f1                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f f2                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f f3                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f f4                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f f5                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f f6                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f f7                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f f8                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f f9                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e764e6class org.jnetpcap.protocol.network.Ip4: size=20 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=6662)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f fa                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e79c20class org.jnetpcap.protocol.network.Ip4: size=42 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=20800)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f fb                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e79c20class org.jnetpcap.protocol.network.Ip4: size=42 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=20800)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f fc                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e79c20class org.jnetpcap.protocol.network.Ip4: size=42 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=20800)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f fd                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@1fc02e79c20class org.jnetpcap.protocol.network.Ip4: size=42 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=20800)
+********************************************************************************
+0000:*ff ff ff ff  ff ff 64 64  4a e5 bd 10  08 06 00 01    ......ddJ.......
+0010: 08 00 06 04  00 01 64 64  4a e5 bd 10  c0 a8 1f 01    ......ddJ......
+0020: 00 00 00 00  00 00 c0 a8  1f fe                       .........      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*64 64 4a e5  bd 10 58 a0  23 13 ad c6  08 06 00 01*   ddJ...X.#.......
+0010: 08 00 06 04  00 02 58 a0  23 13 ad c6  c0 a8 1f 25    ......X.#.....%
+0020: 64 64 4a e5  bd 10 c0 a8  1f 01*                      ddJ......      
+
+
+2024-05-22 00:51:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\DELL\Desktop\Last Hope\trafficN.pcap
+2024-05-22 20:55:01 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2024-05-22 20:55:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2024-05-22 20:55:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-05-22 20:55:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-05-22 20:55:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-05-22 20:55:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2024-05-22 20:55:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2024-05-22 20:55:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2024-05-22 20:55:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2024-05-22 20:55:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2024-05-22 20:55:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2024-05-22 20:55:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2024-05-22 20:55:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2024-05-22 20:55:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2024-05-22 20:55:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2024-05-22 20:55:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2024-05-22 20:55:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2024-05-22 20:55:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2024-05-22 20:55:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2024-05-22 20:55:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2024-05-22 20:55:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2024-05-22 20:55:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-05-22 20:55:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-05-22 20:55:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2024-05-22 20:55:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2024-05-22 20:55:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2024-05-22 20:55:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2024-05-22 20:55:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2024-05-22 20:55:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2024-05-22 20:55:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2024-05-22 20:55:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2024-05-22 20:55:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 36 flow
+2024-05-22 20:55:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 36 flow
+2024-05-22 20:55:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2024-05-22 20:55:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2024-05-22 20:55:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2024-05-22 20:55:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 40 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 40 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 45 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 45 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2024-05-22 20:55:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 47 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 47 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 49 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 49 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2024-05-22 20:55:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2024-05-22 20:55:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2024-05-22 20:55:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2024-05-22 20:55:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2024-05-22 20:55:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 55 flow
+2024-05-22 20:55:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 55 flow
+2024-05-22 20:55:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 56 flow
+2024-05-22 20:55:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 56 flow
+2024-05-22 20:55:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2024-05-22 20:55:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2024-05-22 20:55:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2024-05-22 20:55:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2024-05-22 20:55:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 59 flow
+2024-05-22 20:55:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 59 flow
+2024-05-22 20:55:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 62 flow
+2024-05-22 20:55:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 62 flow
+2024-05-22 20:55:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 63 flow
+2024-05-22 20:55:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 63 flow
+2024-05-22 20:55:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2024-05-22 20:55:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 65 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 65 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 65 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 65 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 65 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 65 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 66 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 66 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 67 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 67 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 68 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 68 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 70 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 70 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 71 flow
+2024-05-22 20:55:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 71 flow
+2024-05-22 20:55:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 72 flow
+2024-05-22 20:55:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 72 flow
+2024-05-22 20:55:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 73 flow
+2024-05-22 20:55:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 73 flow
+2024-05-22 20:55:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 76 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 76 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 77 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 77 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 78 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 78 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 79 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 79 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 85 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 85 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 86 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 86 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 87 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 87 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 88 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 88 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 89 flow
+2024-05-22 20:55:14 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 89 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 90 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 90 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 91 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 92 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 92 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 94 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 94 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 95 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 95 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 96 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 96 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 97 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 97 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 98 flow
+2024-05-22 20:55:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 98 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 99 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 100 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 101 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 101 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 104 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 104 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 105 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 105 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 106 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 106 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 107 flow
+2024-05-22 20:55:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 107 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 110 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 110 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 111 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 111 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 112 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 112 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 113 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 113 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 114 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 114 flow
+2024-05-22 20:55:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 115 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 115 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 116 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 116 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 117 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 117 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 118 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 119 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 119 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 120 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 121 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 121 flow
+2024-05-22 20:55:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 124 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 125 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 125 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 126 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 127 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 128 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 129 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 129 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 130 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 131 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 133 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 133 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 134 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 135 flow
+2024-05-22 20:55:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 136 flow
+2024-05-22 20:55:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 137 flow
+2024-05-22 20:55:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 137 flow
+2024-05-22 20:55:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 138 flow
+2024-05-22 20:55:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 139 flow
+2024-05-22 20:55:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 140 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 141 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 141 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 142 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 142 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 142 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 142 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 143 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 143 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 144 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 146 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 146 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 147 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 148 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 148 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 149 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 150 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 151 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 152 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 152 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 154 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 154 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 155 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 156 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 157 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 157 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 158 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 159 flow
+2024-05-22 20:55:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 159 flow
+2024-05-22 20:55:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 160 flow
+2024-05-22 20:55:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 160 flow
+2024-05-22 20:55:22 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 161 flow
+2024-05-22 20:55:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 162 flow
+2024-05-22 20:55:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 162 flow
+2024-05-22 20:55:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 163 flow
+2024-05-22 20:55:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 163 flow
+2024-05-22 20:55:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 166 flow
+2024-05-22 20:55:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 167 flow
+2024-05-22 20:55:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 168 flow
+2024-05-22 20:55:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 168 flow
+2024-05-22 20:55:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 169 flow
+2024-05-22 20:55:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 170 flow
+2024-05-22 20:55:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 170 flow
+2024-05-22 20:55:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 171 flow
+2024-05-22 20:55:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 172 flow
+2024-05-22 20:55:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 173 flow
+2024-05-22 20:55:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 174 flow
+2024-05-22 20:55:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 174 flow
+2024-05-22 20:55:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 175 flow
+2024-05-22 20:55:29 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 176 flow
+2024-05-22 20:55:29 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 176 flow
+2024-05-22 20:55:29 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 178 flow
+2024-05-22 20:55:29 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 178 flow
+2024-05-22 20:55:29 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 185 flow
+2024-05-22 20:55:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 185 flow
+2024-05-22 20:55:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 185 flow
+2024-05-22 20:55:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 187 flow
+2024-05-22 20:55:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 190 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 191 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 191 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 192 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 192 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 193 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 194 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 195 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 196 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 196 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 197 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 197 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 198 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 199 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 200 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 201 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 202 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 203 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 204 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 205 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 206 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 207 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 208 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 209 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 210 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 211 flow
+2024-05-22 20:55:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 211 flow
+2024-05-22 20:55:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 212 flow
+2024-05-22 20:55:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 212 flow
+2024-05-22 20:55:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 213 flow
+2024-05-22 20:55:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 215 flow
+2024-05-22 20:55:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 215 flow
+2024-05-22 20:55:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 216 flow
+2024-05-22 20:55:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 216 flow
+2024-05-22 20:55:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 216 flow
+2024-05-22 20:55:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 216 flow
+2024-05-22 20:55:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 215 flow
+2024-05-22 20:55:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 215 flow
+2024-05-22 20:56:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 218 flow
+2024-05-22 20:56:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 219 flow
+2024-05-22 20:56:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 219 flow
+2024-05-22 20:56:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 221 flow
+2024-05-22 20:56:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 221 flow
+2024-05-22 20:56:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 221 flow
+2024-05-22 20:56:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 228 flow
+2024-05-22 20:56:58 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2024-05-22 20:56:58 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\ANN project\cicflow4.0\CICFlowmeter\bin\data\daily\2024-05-22_Flow.csv
+2024-05-22 20:56:58 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2024-05-22 20:59:35 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-05-22 21:00:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2024-05-22 21:00:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2024-05-22 21:00:10 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2024-05-22 21:00:10 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\ANN project\cicflow4.0\CICFlowmeter\bin\data\daily\2024-05-22_Flow.csv
+2024-05-22 21:03:38 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-05-22 21:03:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2024-05-22 21:03:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2024-05-22 21:04:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2024-05-22 21:04:37 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2024-05-22 21:04:37 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\ANN project\cicflow4.0\CICFlowmeter\bin\data\daily\2024-05-22_Flow.csv
+2024-05-22 21:04:44 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2024-05-22 21:06:20 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-05-22 21:07:14 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-05-22 21:07:51 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2024-05-22 21:07:51 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\ANN project\cicflow4.0\CICFlowmeter\bin\data\daily\2024-05-22_Flow.csv
+2024-05-22 21:07:53 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2024-05-22 21:07:54 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    open \Device\NPF_{BD9EBAF4-09B9-40F7-B95F-A2DDCF3664F2} fail -> failed to set hardware filter to promiscuous mode
+2024-05-22 21:08:30 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\ANN project\cicflow4.0\CICFlowmeter\bin\data\daily\2024-05-22_Flow.csv
+2024-05-22 21:08:31 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\ANN project\cicflow4.0\CICFlowmeter\bin\data\daily\2024-05-22_Flow.csv
+2024-05-22 21:08:48 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-05-22 21:09:42 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    open \Device\NPF_{BD9EBAF4-09B9-40F7-B95F-A2DDCF3664F2} fail -> failed to set hardware filter to promiscuous mode
+2024-05-22 21:09:55 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-05-22 21:10:24 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2024-05-22 21:10:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2024-05-22 21:11:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2024-05-22 21:11:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2024-05-22 21:11:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2024-05-22 21:12:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2024-05-22 21:12:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2024-05-22 21:12:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2024-05-22 21:12:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2024-05-22 21:13:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2024-05-22 21:14:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2024-05-22 21:14:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2024-05-22 21:15:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 61 flow
+2024-05-22 21:15:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 63 flow
+2024-05-22 21:15:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 65 flow
+2024-05-22 21:15:16 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2024-05-22 21:15:16 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:D:\ANN project\cicflow4.0\CICFlowmeter\bin\data\daily\2024-05-22_Flow.csv
+2024-05-22 21:15:26 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop

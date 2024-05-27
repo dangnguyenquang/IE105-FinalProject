@@ -1,0 +1,54 @@
+Attack Detected at: 2024-05-22 20:56
+Flows collected: 385
+Attack Detected at: 2024-05-22 20:56
+Flows collected: 389
+Normal Activity Detected at: 2024-05-23 14:11
+Flows collected: 16
+ 
+Attack Detected at: 2024-05-23 14:12
+Flows collected: 112
+Normal Activity Detected at: 2024-05-25 14:03
+Flows collected: 2730
+ 
+Normal Activity Detected at: 2024-05-25 14:04
+Flows collected: 2758
+ 
+Normal Activity Detected at: 2024-05-25 14:06
+Flows collected: 2819
+ 
+Normal Activity Detected at: 2024-05-25 14:07
+Flows collected: 2859
+ 
+Normal Activity Detected at: 2024-05-25 14:08
+Flows collected: 2886
+ 
+Normal Activity Detected at: 2024-05-25 14:09
+Flows collected: 2914
+ 
+Normal Activity Detected at: 2024-05-25 14:10
+Flows collected: 2941
+ 
+Normal Activity Detected at: 2024-05-25 14:12
+Flows collected: 2970
+ 
+Normal Activity Detected at: 2024-05-25 14:13
+Flows collected: 3016
+ 
+Normal Activity Detected at: 2024-05-25 14:14
+Flows collected: 3045
+ 
+Normal Activity Detected at: 2024-05-25 14:15
+Flows collected: 3085
+ 
+Normal Activity Detected at: 2024-05-25 14:16
+Flows collected: 3168
+ 
+Normal Activity Detected at: 2024-05-25 14:18
+Flows collected: 3224
+ 
+Normal Activity Detected at: 2024-05-25 14:22
+Flows collected: 3352
+ 
+Normal Activity Detected at: 2024-05-25 14:24
+Flows collected: 3378
+ 
