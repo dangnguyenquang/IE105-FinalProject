@@ -52,3 +52,86 @@ Flows collected: 3352
 Normal Activity Detected at: 2024-05-25 14:24
 Flows collected: 3378
  
+Normal Activity Detected at: 2024-05-29 17:57
+Flows collected: 51
+ 
+Normal Activity Detected at: 2024-05-29 17:58
+Flows collected: 341
+ 
+Normal Activity Detected at: 2024-05-29 18:16
+Flows collected: 10
+ 
+Normal Activity Detected at: 2024-05-29 18:17
+Flows collected: 95
+ 
+Normal Activity Detected at: 2024-05-29 18:18
+Flows collected: 224
+ 
+Normal Activity Detected at: 2024-05-29 18:20
+Flows collected: 330
+ 
+Normal Activity Detected at: 2024-05-29 18:21
+Flows collected: 371
+ 
+Normal Activity Detected at: 2024-05-29 18:22
+Flows collected: 425
+ 
+Normal Activity Detected at: 2024-05-29 18:23
+Flows collected: 469
+ 
+Normal Activity Detected at: 2024-05-29 18:24
+Flows collected: 545
+ 
+Normal Activity Detected at: 2024-05-29 18:26
+Flows collected: 620
+ 
+Normal Activity Detected at: 2024-05-29 18:27
+Flows collected: 659
+ 
+Normal Activity Detected at: 2024-05-29 18:28
+Flows collected: 778
+ 
+Normal Activity Detected at: 2024-05-29 18:29
+Flows collected: 1023
+ 
+Normal Activity Detected at: 2024-05-29 18:30
+Flows collected: 1543
+ 
+Normal Activity Detected at: 2024-05-29 18:32
+Flows collected: 1736
+ 
+Normal Activity Detected at: 2024-05-29 18:33
+Flows collected: 1918
+ 
+Normal Activity Detected at: 2024-05-29 18:34
+Flows collected: 2048
+ 
+Attack Detected at: 2024-05-30 20:34
+Flows collected: 27
+Normal Activity Detected at: 2024-05-30 21:16
+Flows collected: 18
+ 
+Normal Activity Detected at: 2024-05-30 21:59
+Flows collected: 67
+ 
+Normal Activity Detected at: 2024-05-30 22:00
+Flows collected: 86
+ 
+Normal Activity Detected at: 2024-05-30 22:36
+Flows collected: 25
+ 
+Normal Activity Detected at: 2024-05-30 22:37
+Flows collected: 188
+ 
+Normal Activity Detected at: 2024-05-30 22:38
+Flows collected: 243
+ 
+Normal Activity Detected at: 2024-05-30 22:39
+Flows collected: 283
+ 
+Normal Activity Detected at: 2024-05-31 16:46
+Flows collected: 15
+ 
+Normal Activity Detected at: 2024-05-31 17:33
+Flows collected: 21
+ 
