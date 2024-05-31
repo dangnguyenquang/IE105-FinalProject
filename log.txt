@@ -135,3 +135,9 @@ Flows collected: 15
 Normal Activity Detected at: 2024-05-31 17:33
 Flows collected: 21
  
+Normal Activity Detected at: 2024-05-31 20:48
+Flows collected: 31
+ 
+Normal Activity Detected at: 2024-05-31 20:54
+Flows collected: 25
+ 
